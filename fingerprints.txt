@@ -1,1 +1,1 @@
-{"device": "", "fingerprint": ""}
+{"device": "WIN7-KJDLJKSL", "fingerprint": "01423ca02c23f631cdae761920d6acca249088d4a5113ca42dac351aa90c1ede"}
